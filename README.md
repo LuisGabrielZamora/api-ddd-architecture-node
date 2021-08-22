@@ -1,7 +1,7 @@
 # DDD API ARCHITECTURE ON NODE JS
 
 ## To execute project
-1. Need intall Node JS on your computer: https://nodejs.org/es/
+1. Need install Node JS on your computer: https://nodejs.org/es/
 2. **npm install**
 3. Run in your terminal: **node app**
 
